@@ -39,5 +39,5 @@ We may update this Privacy Policy from time to time. Updates will be posted at t
 
 ## 8. Contact Us
 If you have questions about this Privacy Policy, please contact us:  
-**Email:** support@yourdomain.com  
+**Email:** n.yerkinbekov@gmail.com 
 **GitHub Support Page:** https://github.com/yourusername/go-app-support
